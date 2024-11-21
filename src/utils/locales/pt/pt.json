@@ -1,0 +1,21 @@
+{
+  "translation":{
+    "Início": "Início",
+    "Sobre mim": "Sobre mim",
+    "Projetos": "Projetos",
+    "Certificados": "Certificados",
+    "Contato": "Contato",
+    "Olá, sou o": "Olá, sou o",
+    "Desenvolvedor Front-end": "Desenvolvedor Front-end",
+    "Mais sobre mim": "Mais sobre mim",
+    "Desenvolvedor Front-end fascinado por transformar ideias em presença digital.": "Desenvolvedor Front-end fascinado por transformar ideias em presença digital.",
+    "Especializado em React e Next.js, combino criatividade e conhecimento técnico para criar aplicações funcionais e inovadoras.": "Especializado em React e Next.js, combino criatividade e conhecimento técnico para criar aplicações funcionais e inovadoras.",
+    "Como profissional, busco sempre construir códigos limpos e reutilizáveis, resultando em projetos escaláveis e de fácil manutenção.": "Como profissional, busco sempre construir códigos limpos e reutilizáveis, resultando em projetos escaláveis e de fácil manutenção.",
+    "3 projetos mais recentes": "3 projetos mais recentes",
+    "Website produzido para uma empresa importadora e exportadora de açúcar. Com design moderno e funcional, com idiomas em português, inglês e espanhol, construído em React com Typescript e Tailwind.": "Website produzido para uma empresa importadora e exportadora de açúcar. Com design moderno e funcional, com idiomas em português, inglês e espanhol, construído em React com Typescript e Tailwind.",
+    "Desenvolvimento de um e-commerce de joias. Com a intenção de criar a presença online de um empreendedor, construído usando principalmente React.js com Javascript e CSS.": "Desenvolvimento de um e-commerce de joias. Com a intenção de criar a presença online de um empreendedor, construído usando principalmente React.js com Javascript e CSS.",
+    "Meus certificados": "Meus certificados",
+    "Ver projeto": "Ver projeto",
+    "Fale comigo": "Fale comigo"
+  }
+}
