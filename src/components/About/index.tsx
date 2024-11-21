@@ -1,7 +1,7 @@
 import { forwardRef } from 'react';
 import { useTranslation } from 'react-i18next';
 
-export const About = forwardRef<HTMLElement>((props, ref) => {
+export const About = forwardRef<HTMLElement>((_, ref) => {
   const { t } = useTranslation()
   return(
     <section ref={ref} className='flex h-[700px] items-center'>
