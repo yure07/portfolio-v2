@@ -1,21 +1,17 @@
 {
   "translation":{
-    "Início": "Home",
-    "Sobre mim": "About me",
+    "Sobre": "About",
     "Projetos": "Projects",
-    "Certificados": "Certificates",
-    "Contato": "Contact",
-    "Olá, sou o": "Hey, I am",
+    "Experiência": "Experience",
     "Desenvolvedor Front-end": "Front-end Developer",
-    "Mais sobre mim": "More about myself",
-    "Desenvolvedor Front-end fascinado por transformar ideias em presença digital.": "Front-end developer fascinated by transforming ideas into digital presence.",
-    "Especializado em React e Next.js, combino criatividade e conhecimento técnico para criar aplicações funcionais e inovadoras.": "Specialized in React and Next.js, I combine creativity and technical knowledge to create functional and innovative applications.",
-    "Como profissional, busco sempre construir códigos limpos e reutilizáveis, resultando em projetos escaláveis e de fácil manutenção.": "As a professional, I always seek to build clean and reusable codes, resulting in scalable and easy-to-maintain projects.",
-    "3 projetos mais recentes": "3 latest projects",
-    "Website produzido para uma empresa importadora e exportadora de açúcar. Com design moderno e funcional, com idiomas em português, inglês e espanhol, construído em React com Typescript e Tailwind.": "Website produced for a sugar importing and exporting company. With a modern and functional design, with languages in Portuguese, English and Spanish, built in React with Typescript and Tailwind.",
-    "Desenvolvimento de um e-commerce de joias. Com a intenção de criar a presença online de um empreendedor, construído usando principalmente React.js com Javascript e CSS.": "Development of a jewelry e-commerce. With the intention of creating an online presence for an entrepreneur, built mainly using React.js with Javascript and CSS.",
-    "Ver projeto": "See project",
-    "Meus certificados": "My certificates",
-    "Fale comigo": "Talk to me"
+    "Crio experiências memoráveis através da web.": "I create memorable experiences through the web.",
+    "Sou um desenvolvedor apaixonado por criar interfaces de usuário acessíveis que combinam design inteligente com funcionalidade há 2 anos. Meu ponto forte está no desenvolvimento, mas domino também a prototipagem, criando experiências que não só têm ótima aparência, mas são meticulosamente construídas para desempenho e usabilidade.": "I'm a developer passionate about creating accessible user interfaces that combine thoughtful design with functionality for 2 years. My strength lies in development, but I also master prototyping, creating experiences that not only look great, but are meticulously built for performance and usability.",
+    "Ao longo da minha carreira, já trabalhei numa software house, fiz projetos freelancers e participei de um projeto voluntário na parte jurídica.": "Throughout my career, I've worked at a software house, done freelance projects, and participated in a volunteer project in the legal department.",
+    "No meu tempo livre, gosto de ler, praticar caminhada, musculação e jogos.":"In my free time, I like to read, go for walks, work out and play games.",
+    "Responsável por construir e manter o CRM da empresa, atuando juntamente com os desenvolvedores e designers, para fundir funcionalidade e elegância em um só projeto.": "Responsible for building and maintaining the company's CRM, working together with developers and designers to merge functionality and elegance into a single project.",
+    "Desenvolvedor Front-end voluntário": "Volunteer Front-end Developer",
+    "Projeto social da área jurídica, beneficiando pessoas que não têm condições de pagar um advogado. Fui encarregado do front-end do projeto.": "Social project in the legal area, benefiting people who cannot afford a lawyer. I was in charge of the project's front-end.",
+    "Website capaz de ler comentários de um vídeo do youtube e trazer a emoção que expressa cada comentário, através de inteligência artificial, com mais de 20 emoções disponíveis.": "Website capable of reading comments from a YouTube video and displaying the emotion expressed by each comment, through artificial intelligence, with more than 20 emotions available.",
+    "Landing Page produzida para uma empresa importadora e exportadora de açúcar. Com design moderno e funcional, e idiomas em português, inglês e espanhol.": "Landing Page produced for a sugar importing and exporting company. With a modern and functional design, and languages ​​in Portuguese, English and Spanish."
   }
 }
