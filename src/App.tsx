@@ -51,7 +51,7 @@ function App() {
         <div className="flex flex-col w-72 mt-20 text-white text-xs gap-4 md:mt-0 lg:w-[500px]">
           <h2 className="uppercase font-bold text-sm lg:text-lg">{t("Sobre")}</h2>
           <p className="text-slate-200 leading-5 lg:text-base">
-            {t("Sou um desenvolvedor apaixonado por criar interfaces de usuário acessíveis que combinam design inteligente com funcionalidade há 2 anos. Meu ponto forte está no desenvolvimento, mas domino também a prototipagem, criando experiências que não só têm ótima aparência, mas são meticulosamente construídas para desempenho e usabilidade.")}</p>
+            {t("Sou um desenvolvedor apaixonado por criar interfaces de usuário acessíveis que combinam design inteligente com funcionalidade desde 2022. Meu ponto forte está no desenvolvimento, mas domino também a prototipagem, criando experiências que não só têm ótima aparência, mas são meticulosamente construídas para desempenho e usabilidade.")}</p>
           <p className="text-slate-200 leading-5 lg:text-base"> 
             {t("Ao longo da minha carreira, já trabalhei numa software house, fiz projetos freelancers e participei de um projeto voluntário na parte jurídica.")}
           </p>
@@ -172,7 +172,36 @@ function App() {
               <img src="/panacea-img.png" alt="panacea-img" className="rounded-lg"/>
             </div>
           </div>
+
+          <div className="flex flex-col mt-10 lg:flex-row-reverse lg:mt-16" id="project-pancea">
+            <div className="flex flex-col mt-8 lg:w-80 lg:pl-6 lg:mt-0">
+              <a href="https://tauripasta.com/" target="_blank" className="underline text-sm font-semibold lg:text-lg" rel="noreferrer">Tauri</a>
+              <span className="text-xs mt-1 text-red-500">{t("Em breve!")}</span>
+              <span className="mt-2 mb-4 text-xs lg:text-base">{t("Website feito para uma empresa restaurante de massas. Nele é possível realizar pagamentos em pix e cartões, recebendo confirmação via Whatsapp.")}</span>
+                <div className="flex flex-wrap gap-x-3 gap-y-2 text-[#4AB9AC] font-medium text-xs lg:text-sm">
+                  <div className="px-3 py-1 bg-[#122B39] rounded-lg">
+                    <span>React</span>
+                  </div>
+                  <div className="px-3 py-1 bg-[#122B39] rounded-lg">
+                    <span>Typescript</span>
+                  </div>
+                  <div className="px-3 py-1 bg-[#122B39] rounded-lg">
+                    <span>Tailwind</span>
+                  </div>
+                  <div className="px-3 py-1 bg-[#122B39] rounded-lg">
+                    <span>API Mercado Pago</span>
+                  </div>
+                  <div className="px-3 py-1 bg-[#122B39] rounded-lg">
+                    <span>API Meta</span>
+                  </div>
+                </div>
+            </div>
+            <div className="p-[2px] bg-[#7C7878] rounded-lg mt-6 w-64 lg:w-[180px] lg:h-[90px] lg:mt-0">
+              <img src="/tauri-img.png" alt="panacea-img" className="rounded-lg"/>
+            </div>
+          </div>
         </div>
+
       </section>
     </div>
   )
